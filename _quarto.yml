@@ -6,8 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About the Players
+      - href: about.qmd
+        text: Hitting Graphs
+      - href: story.qmd
+        text: Redefining Power Hitting
 
 format:
   html:
